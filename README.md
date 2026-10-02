@@ -37,7 +37,7 @@ sdm-eon-classifier-SOMMA/
 
 ### Artefatos
 
-- [`base_de_dados/baseMLJurandir.csv`](base_de_dados/baseMLJurandir.csv): base de dados usada na análise, com 1.084.215 registros e 12 colunas antes do pré-processamento.
+- [`base_de_dados/baseMLJurandir.csv`](base_de_dados/baseMLJurandir.zip): base de dados usada na análise, com 1.084.215 registros e 12 colunas antes do pré-processamento.
 - [`notebook/RedesElásticas_Somma.ipynb`](notebook/RedesElásticas_Somma.ipynb): notebook com carregamento, exploração, engenharia de atributos, balanceamento, treinamento e avaliação.
 
 ## Dados
